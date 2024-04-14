@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/QuirogaPau/Proyecto-G19-CodoACodo/issues"
   },
-  "homepage": "https://github.com/QuirogaPau/Proyecto-G19-CodoACodo#readme"
+  "homepage": "https://github.com/QuirogaPau/Proyecto-G19-CodoACodo#readme",
+  "dependencies": {
+    "bootswatch": "^5.3.3"
+  }
 }
