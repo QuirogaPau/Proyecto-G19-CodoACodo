@@ -1,0 +1,25 @@
+{
+  "name": "proyecto-g19-codoacodo",
+  "version": "1.0.0",
+  "description": "proyecto-g19-codoacodo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuirogaPau/Proyecto-G19-CodoACodo.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "yazminferreyra",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/QuirogaPau/Proyecto-G19-CodoACodo/issues"
+  },
+  "homepage": "https://github.com/QuirogaPau/Proyecto-G19-CodoACodo#readme",
+  "dependencies": {
+    "bootswatch": "^5.3.3"
+  }
+}
