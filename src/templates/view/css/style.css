@@ -1,0 +1,9 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#miSection img {
+    height: 50vh important!;
+    object-fit: cover;
+}
