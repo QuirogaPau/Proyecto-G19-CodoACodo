@@ -30,3 +30,27 @@ body{
 .icon-item i {
     font-size: 3rem; /* Tamaño de los iconos */
 }
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+    background-color: #830ab4;
+    
+}
+.card-img-top {
+    height: 500px; 
+    object-fit: cover;
+    
+  }
+
+#carouselExampleDark {
+    max-width: 500px;
+    margin: auto; 
+  }
+  
+  .carousel-item img {
+    max-width: 100%;
+    height: auto; 
+    margin: 1%;
+}
