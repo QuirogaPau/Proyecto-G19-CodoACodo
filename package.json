@@ -4,7 +4,8 @@
   "description": "proyecto-g19-codoacodo",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/QuirogaPau/Proyecto-G19-CodoACodo#readme",
   "dependencies": {
-    "bootswatch": "^5.3.3"
+    "bootswatch": "^5.3.3",
+    "express": "^4.19.2"
   }
 }
