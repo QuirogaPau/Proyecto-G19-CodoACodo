@@ -10,3 +10,5 @@ document.addEventListener("DOMContentLoaded", function() {
             console.log("Disparé dentro del catch"); // Este console.log se ejecutará si hay un error en el fetch
         });
 });
+ 
+fetch(api['cardLibro'])
